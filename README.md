@@ -19,5 +19,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huends-jhoebert&" alt="huends-jhoebert" /></p>
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Huends-Jhoebert/Huends-Jhoebert/blob/output/github-contribution-grid-snake.gif)
 
