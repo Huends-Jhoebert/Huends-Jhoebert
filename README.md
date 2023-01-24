@@ -15,5 +15,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue js-41b883?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-f5820d?style=flat-square&logo=firebase&logoColor=white" />
-   <img alt="Restapi" src="https://img.shields.io/badge/-Rest api-3792cb?style=flat-square&logo=restapi&logoColor=white" />
+  <img alt="Restapi" src="https://img.shields.io/badge/-Rest api-3792cb?style=flat-square&logo=restapi&logoColor=white" />
+   <img alt="Php" src="https://img.shields.io/badge/-php-474a8a?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-f29111?style=flat-square&logo=mysql&logoColor=white" />
 </p>
