@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jhoebert Huenda </h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h1 align="center">Hi 👋, I'm Jhoebert Huenda <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">A passionate full stack developer from Phillippines</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huends-jhoebert" alt="huends-jhoebert" /></a> </p>
