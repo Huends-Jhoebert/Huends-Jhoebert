@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jhoebert Huenda <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">A passionate full stack developer from Sorsogon City, Phillippines <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/2560px-Flag_of_the_Philippines.svg.png" width="25"></h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Huends-Jhoebert&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/@hu_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hu_dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/huends_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="huends_code" height="30" width="40" /></a>
 </p>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Huends-Jhoebert&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 
 
 # 💻 Tech Stack:
