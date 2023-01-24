@@ -12,7 +12,10 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Expressjs" src="https://img.shields.io/badge/-Express js-43853d?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+<p>
+   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue js-41b883?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-f5820d?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Restapi" src="https://img.shields.io/badge/-Rest api-3792cb?style=flat-square&logo=restapi&logoColor=white" />
@@ -20,3 +23,4 @@
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-f29111?style=flat-square&logo=mysql&logoColor=white" />
    <img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-553c7b?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
+
