@@ -24,7 +24,7 @@
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-00758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
  # ☁️ Cloud platforms and tools:
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postman](https://img.shields.io/badge/Postman-f1502f?style=for-the-badge&logo=postman&logoColor=fff) ![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=fff) ![Github](https://img.shields.io/badge/Github-f1502f?style=for-the-badge&logo=github&logoColor=fff)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postman](https://img.shields.io/badge/Postman-f1502f?style=for-the-badge&logo=postman&logoColor=fff) ![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=fff) ![Github](https://img.shields.io/badge/Github-211f1f?style=for-the-badge&logo=github&logoColor=fff)
   
   
 # 📊 GitHub Stats:
