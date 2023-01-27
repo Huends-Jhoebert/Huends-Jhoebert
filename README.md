@@ -38,6 +38,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-![snake gif](https://github.com/Huends-Jhoebert/Huends-Jhoebert/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Huends-Jhoebert/Huends-Jhoebert/blob/output/github-contribution-grid-snake.svg)
 
