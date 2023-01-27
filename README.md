@@ -28,9 +28,9 @@
   
   
 # 📊 GitHub Stats:
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Huends-Jhoebert&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Huends-Jhoebert&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Huends-Jhoebert&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Huends-Jhoebert&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
