@@ -9,7 +9,7 @@
 
 
 ## 🏆 GitHub Trophies
-![Github-Tropies](https://github-profile-trophy.vercel.app/?username=Huends-Jhoebert&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Huends-Jhoebert&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 
 # 👨‍💻 Programming languages etc:
